@@ -11,4 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=abhay-8&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-8&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+#
+[![An image of @abhay8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhay8)](https://holopin.io/@abhay8)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
