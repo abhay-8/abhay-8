@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on a SQLite clone, written in rust.<br>🌱 I’m currently learning nestjs<br>📝 I regularly write articles on https://medium.com/@abhay.nimmagadda<br>📫 How to reach me abhaynimmagadda@gmail.com<br>
+Hi 👋, I'm Abhay Nimmagadda, a senior @ VIT,Vellore. I am a backend engineer with an interest in databases & distributed systems!
 
+🔭 I’m currently working on a SQLite clone, written in rust.<br>🌱 I’m currently learning nestjs<br>📝 I regularly write articles on https://medium.com/@abhay.nimmagadda<br>📫 How to reach me abhaynimmagadda@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhay-nimmagadda/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@abhay.nimmagadda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/abbbeyyyyyy/) 
